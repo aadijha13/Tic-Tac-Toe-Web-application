@@ -24,4 +24,5 @@ This project demonstrates proficiency in building interactive web applications u
 (Optional: Add a line or two about future development plans.)
 
 Feel free to explore the code and provide feedback!
-<img width="1440" alt="Screenshot 2024-06-11 at 3 27 07 PM" src="https://github.com/aadijha13/Tic-Tac-Toe-Web-application/assets/170996607/4956cd0a-7235-4ffc-87c1-4ae1ca494e52">
+<img width="1440" alt="Screenshot 2024-06-12 at 6 05 39 PM" src="https://github.com/aadijha13/Tic-Tac-Toe-Web-application/assets/170996607/55a7903c-69d2-41e3-9f2d-202d3e43902b">
+
